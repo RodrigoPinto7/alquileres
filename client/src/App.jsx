@@ -32,7 +32,6 @@ function App() {
         </svg>
         </div>
         </div>
-        <div></div>
       </header>
     </div>
   )
